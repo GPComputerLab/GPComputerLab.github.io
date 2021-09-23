@@ -1,0 +1,28 @@
+.site-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.site-item {
+    margin: 10px;
+    padding: 20px;
+    background-color: #591818;
+    border-radius: 10%;
+}
+
+.site-img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    
+}
+
+h1 {
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
