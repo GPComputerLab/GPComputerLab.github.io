@@ -1,3 +1,8 @@
+html {
+    background-color: rgb(0, 41, 0);
+    color: rgb(95, 57, 197)
+}
+
 .site-list {
     display: flex;
     flex-wrap: wrap;
@@ -7,8 +12,9 @@
 .site-item {
     margin: 10px;
     padding: 20px;
-    border: 1px solid black;
+    border: 1px solid rgb(95, 57, 197);
     border-radius: 10%;
+    background-color: rgb(70,0,0);
 }
 
 .site-img {
@@ -20,5 +26,5 @@
 
 .site-list a {
     text-decoration: none;
-    color: black;
+    color: rgb(0, 202, 10);
 }
